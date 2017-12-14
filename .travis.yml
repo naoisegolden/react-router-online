@@ -1,0 +1,7 @@
+deploy:
+  provider: npm
+  email: naoise.golden@gmail.com
+  api_key:
+    secure: BcvVtYZ+zs37IUpHjDPCyOPL2yesLqJZ70hqzoGGLCmr3zJhd2R0tb/W01jeK+v0vk0kXscM2g4T/Dx5miL/8p7oNIqk04LV3oHlDhQPBleASPTnc8TspRpytqRFahVHd8tWWl/h1q76E1MCF/yoZCwLUFycwaZHD4ssWA6NlH08UnhhmvjxCoR5/hY5f+AsVoNa66zKOJRJlaDbYNFhoKFgTC1aD2udHh+fDbhmvEG5McIbiWAI5h7nAelvwly+lcBM/170q/Hvbe78qM/zuoy+xLMYFjerKS5dZ0dqMJB8E07uxRLknI4K0kE9i0fuma9gPz6qfM9HT0hz6quuTsmiRCMLr2lOpeVOO9zpVOOZceFtstHSh/Zt7I/cen8u5tJxdJ/F8ZfL39Vj6aFZzzmY3fm3W+OEHRKzIMWqXIlW1nR9k2upsHXyBdEBM6pQHyxhoC1QV36zySwPHohFlk3tUnegsty38gAIsxNaRkmBU+KneQuDTl+LsD5KcVee/Mn4aQ4MeAABwboTRjs1Fo1hzNXVcbQKCVaQDCH5ULuNFHHENTYOMQrOuuacvwRHqcsYdts2E5pEx3KXiLPKMaX3Q+8XFYxd+d8EyDWHLxgBISkMGPYfRedE4SNKT9IEWE4xeteEnZiWnSDceyNRF85bYdBMvw7ppG3G0UE/2LE=
+  on:
+    tags: true
