@@ -1,4 +1,5 @@
 # React Router Online
+[![Build Status](https://travis-ci.org/naoisegolden/react-router-online.svg?branch=master)](https://travis-ci.org/naoisegolden/react-router-online)
 
 A React Router middleware for online/offline window events.
 
