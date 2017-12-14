@@ -1,0 +1,16 @@
+{
+  "name": "react-router-online",
+  "version": "1.0.0",
+  "description": "A React Router middleware for online/offline window events",
+  "author": "Naoise Golden <naoise.golden@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naoisegolden/react-router-online.git"
+  },
+  "private": false,
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0"
+  }
+}
